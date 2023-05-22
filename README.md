@@ -1,5 +1,5 @@
 # Aula-11 - Programando em Genially com JavaScript
-Bem-vindo ao repositório de Programando em Genially com JavaScript para Genial.ly! Este repositório foi criado com o objetivo de fornecer exemplos de código que demonstram como utilizar as linguagens de programação HTML, CSS e JavaScript para criar conteúdo envolvente e interativo na plataforma Genial.ly.
+Bem-vindo ao repositório de **Programando em Genially com JavaScript para Genial.ly**! Este repositório foi criado com o objetivo de fornecer exemplos de código que demonstram como utilizar as linguagens de programação HTML, CSS e JavaScript para criar conteúdo envolvente e interativo na plataforma Genial.ly.
 
 # Introdução
 O Genial.ly é uma plataforma poderosa que permite criar conteúdo visual impressionante, como apresentações, infográficos, imagens interativas e muito mais. Ao combinar HTML, CSS e JavaScript, você pode desbloquear todo o potencial do Genial.ly e criar experiências dinâmicas e interativas para o seu público.
