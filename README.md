@@ -30,7 +30,7 @@ Se você deseja contribuir para este repositório, fique à vontade para enviar 
 Os exemplos de código neste repositório são disponibilizados sob a [Licença MIT](https://api.github.com/licenses/mit), que permite usar, modificar e distribuir o código para fins comerciais e não comerciais. No entanto, observe que esta licença se aplica apenas ao código e não abrange quaisquer recursos ou ativos específicos que possam estar incluídos nos exemplos.
 
 # Aviso Legal
-Embora os exemplos de código neste repositório sejam destinados a demonstrar o uso de HTML, CSS e JavaScript no Genial.ly, eles são fornecidos como estão, sem quaisquer garantias ou garantias. Utilize-os por sua própria conta e risco, e sempre teste exaustivamente antes de usar qualquer código em um ambiente de produção.
+Embora os exemplos de código neste repositório sejam destinados a demonstrar o uso de HTML, CSS e JavaScript no Genial.ly, eles são fornecidos como estão, sem quaisquer garantia ou garantias. Utilize-os por sua própria conta e risco, e sempre teste exaustivamente antes de usar qualquer código em um ambiente de produção.
 
 # Contato
 Se você tiver alguma dúvida, sugestão ou feedback, não hesite em nos contatar. Você pode entrar em contato conosco criando uma issue neste repositório ou enviando um e-mail para k.sodre@telesapiens.com.br.
