@@ -37,4 +37,4 @@ Se você tiver alguma dúvida, sugestão ou feedback, não hesite em nos contata
 
 Esperamos que esses exemplos ajudem você a liberar sua criatividade e aproveitar ao máximo as capacidades do Genial.ly. Boa codificação!
 
-Esta aula faz parte do curso "DESENVOLVIMENTO DE TRILHAS DE APRENDIZAGEM EM GENIALLY INTEGRADO AO RISE", elaborado pela empresa [TeleSapiens](https://telesapiens.com.br/).
+_Esta aula faz parte do curso "DESENVOLVIMENTO DE TRILHAS DE APRENDIZAGEM EM GENIALLY INTEGRADO AO RISE", elaborado pela empresa [TeleSapiens](https://telesapiens.com.br/)._
